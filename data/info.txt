@@ -1,0 +1,2 @@
+# directory
+# train/ valid -> data devided by topics (e.g, jobs, shopping)
