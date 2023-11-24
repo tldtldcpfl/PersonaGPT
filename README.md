@@ -5,7 +5,11 @@
 - This project aims at generating persona-based responsed by fine-tuning on korean persona converastion datset released by AI Hub.
 - Next, whole framework consists of two parts: persona-generator and response generaotr.
 
-   
+## Datasets
+- PersonaChat
+- Korean Persona Conversational Dataset
+
+
 
 ### Resources
 - https://arxiv.org/pdf/1911.00536.pdf
